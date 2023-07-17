@@ -1,7 +1,12 @@
-### Olá, sou o Alysson Montovanelli!, Cientista de Dados e estudante de Engenharia de Software 👋
+### Olá, sou o Alysson Montovanelli! Cientista de Dados e estudante de Engenharia de Software 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssonmontovanelli/)
-<a href = "mailto:alyssonmontovanelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:alyssonmontovanelli@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://medium.com/@alysson.montovanelli">
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alyssonmontovanelli/)
 
 ##
